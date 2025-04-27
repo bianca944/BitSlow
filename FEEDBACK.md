@@ -14,4 +14,4 @@ Mi-ar plăcea să am mai multe teste automate pentru API-uri și funcționalită
 
 Documentația este destul de clară, dar cred că ar ajuta să fie mai multe exemple de utilizare a API-urilor și poate un ghid mai detaliat despre cum să rulezi aplicația în producție (cum să configurezi Bun și alte setări). Un mic ghid pentru problemele comune ar fi super util.
 
-În general, m-am distrat lucrând la acest proiect. Am învățat destul de multe lucruri noi și sunt mulțumit de cum a ieșit aplicația. Dacă aș avea mai mult timp, mi-ar plăcea să îmbunătățesc și mai mult partea de performanță și să adaug câteva funcționalități suplimentare, dar pentru moment sunt mulțumit de ce am realizat.
+În general, m-am distrat lucrând la acest proiect. Am învățat destul de multe lucruri noi și sunt mulțumită de cum a ieșit aplicația. 
