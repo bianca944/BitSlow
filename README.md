@@ -1,6 +1,3 @@
-# ThemeIsle Internship Test
-
-Welcome! This test consists of a series of practical tasks designed to evaluate your skills and familiarity with web applications.
 
 ## Evaluation Criteria
 
